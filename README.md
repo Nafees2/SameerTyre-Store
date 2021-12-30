@@ -1,1 +1,1 @@
-# SameerTyre-Store
+# SameerTyreStore
